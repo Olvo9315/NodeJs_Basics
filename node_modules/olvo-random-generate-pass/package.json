@@ -1,0 +1,24 @@
+{
+  "name": "olvo-random-generate-pass",
+  "version": "1.0.0",
+  "description": "random pass generate library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olvo9315/npm_project.git"
+  },
+  "keywords": [
+    "random",
+    "pass",
+    "gen"
+  ],
+  "author": "olvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olvo9315/npm_project/issues"
+  },
+  "homepage": "https://github.com/Olvo9315/npm_project#readme"
+}
